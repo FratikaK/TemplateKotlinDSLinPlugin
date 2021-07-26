@@ -1,0 +1,4 @@
+name: TestKotlinScript
+version: 1.0
+main: com.github.kamunyan.testkotlinscript.Main
+api-version: 1.16
